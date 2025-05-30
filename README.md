@@ -2,7 +2,7 @@
 
 ## 📋 Description
 
-This **working** SuiteScript 2.1 solution automates Vendor validation and file transfer via sftp in NetSuite
+This SuiteScript 2.1 solution automates Vendor validation and file transfer via sftp in NetSuite
 
 Detailed Script attached as **vendValidation.js**
 
