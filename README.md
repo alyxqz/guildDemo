@@ -1,8 +1,8 @@
-# (1) NetSuite Vendor Validation SFTP & Direct Upload
+# (1) Guild Vendor Validation SFTP & Direct Upload
 
 ## 📋 Description
 
-This SuiteScript 2.1 solution automates Vendor validation and file transfer via sftp in NetSuite
+This **working** SuiteScript 2.1 solution automates Vendor validation and file transfer via sftp in NetSuite
 
 Detailed Script attached as **vendValidation.js**
 
@@ -18,8 +18,6 @@ Detailed Script attached as **vendValidation.js**
 - ✅ Logs actions and errors using `N/log`
 
 ---
-
-## 🧱 File Structure & Contents
 
 # (2) WorkFlow Design
 Attached  as **billApp.png**
