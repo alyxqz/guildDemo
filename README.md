@@ -2,7 +2,9 @@
 
 ## 📋 Description
 
-This SuiteScript 2.1 solution automates Vendor validation and file transfer via sftp in NetSuite by supporting two flows:
+This SuiteScript 2.1 solution automates Vendor validation and file transfer via sftp in NetSuite
+
+Detailed Script attached as **vendValidation.js**
 
 ---
 
@@ -20,7 +22,7 @@ This SuiteScript 2.1 solution automates Vendor validation and file transfer via 
 ## 🧱 File Structure & Contents
 
 # (2) WorkFlow Design
-Attached  as billApp.png
+Attached  as **billApp.png**
 
 
 # (3) Integration Recomendations
@@ -34,7 +36,7 @@ With either tool the first step would be to gather all credentials:
     **directory**: '/vendors'
 
 For this written example, I'll be working with a **Restlet**
-You can also refer to the sftpRest.js file attached for a more detailed approach.
+You can also refer to the **sftpRest.js** file attached for a more detailed approach.
 
 Data validatoin and error handling will be done in Javascript once requirements have been gatnered.
 Addiotional system checks/audits will be handled by a third party logging tools (e.g. DataDog ) that will validate all systems
